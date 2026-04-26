@@ -1,0 +1,9 @@
+setuptools<82
+ydata-profiling
+pandas
+numpy
+matplotlib
+IPython
+sklearn
+tqdm
+river
